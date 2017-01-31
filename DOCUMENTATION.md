@@ -64,3 +64,4 @@ run ./setToNormal.sh to change it back so wordpress can't access certain files
 	
 
 TODO: Write a script to build wordpress 
+TODO: Write some php functions to make changes instead of hardcoding it
